@@ -1,0 +1,7 @@
+The following parts needs to be printed two copies of:
+
+LegLever_Lower
+LegLever_Upper
+Leg_L_Hinge
+Leg_T_Hinge
+Leg_Sleeve

@@ -1,0 +1,5 @@
+Layer height: 0.1 mm
+Infill: 50% (or higher)
+
+Make sure to print all parts in this folder together. This will allow each part to cool down between layers.
+Print first layer very slow. 12 mm/s or slower is recommended.

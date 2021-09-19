@@ -1,0 +1,3 @@
+Layer height: 0.25 mm
+
+It is recommended to set first layer line direction to vertical. This will reduce friction between moving parts.
