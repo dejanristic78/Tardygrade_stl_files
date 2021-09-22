@@ -1,3 +1,9 @@
+Recommended materials: PLA or PETG
+
 Layer height: 0.25 mm
+
+Turn off all supports.
+
+Try to make sure the first layer is not squished to avoid elephants foot.
 
 It is recommended to set first layer line direction to vertical. This will reduce friction between moving parts.
